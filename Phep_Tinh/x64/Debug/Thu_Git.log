@@ -1,0 +1,4 @@
+﻿  PhepCong.cpp
+C:\Users\pc\source\repos\Thu_Git\Thu_Git\PhepCong.cpp(11,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\source\repos\Thu_Git\Thu_Git\PhepCong.cpp(11,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Thu_Git.vcxproj -> C:\Users\pc\source\repos\Thu_Git\x64\Debug\Thu_Git.exe
