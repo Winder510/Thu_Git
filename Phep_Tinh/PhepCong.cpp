@@ -14,5 +14,7 @@ int main()
 //	cin >> x >> y;
 	cout << "Phep cong " << PhepCong(x,y);
 	cout << "Phep Chia " << PhepChia(x, y);
+	cout << "Phep nhan " << x * y;
+	// da code them 
 
 }
